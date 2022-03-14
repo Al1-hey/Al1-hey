@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Al1-hey
-- 👀 I’m interested in ... videogames and music
+- 👋 Hi, I’m @Al1-hey (but everyone calls me ali)
+- 👀 I’m interested in ... videogames and music (but idk)
 - 🌱 I’m currently learning ... java
-- 💞️ ily...
-- 📫 https://alihey.carrd.co/
+- 💞️ ily... [REDACTED]
+- 📫 
 
 <!---
 Al1-hey/Al1-hey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
